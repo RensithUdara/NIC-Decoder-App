@@ -5,7 +5,7 @@ import java.time.LocalDate;
 import java.time.Period;
 import javax.swing.*;
 
-public class ID_PROJECT {
+public class nic_checker {
     public static void main(String[] args) {
         JFrame frame = new JFrame("NIC Information Finder");
         frame.setSize(500, 400);
